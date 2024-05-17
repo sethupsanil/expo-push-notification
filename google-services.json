@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428505866152",
+    "project_id": "pushnotification-4a22f",
+    "storage_bucket": "pushnotification-4a22f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428505866152:android:f656c242cddc31fc0ac79d",
+        "android_client_info": {
+          "package_name": "com.sethu.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD47fua7rInN6I6MVvluBtHsv7JkGO-HQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
